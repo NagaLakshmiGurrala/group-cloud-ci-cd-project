@@ -1,0 +1,15 @@
+{
+  "name": "group-cloud-ci-cd-project",
+  "version": "1.0.0",
+  "description": "A simple Node.js app for CI/CD deployment",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
+
